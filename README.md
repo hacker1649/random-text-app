@@ -1,6 +1,6 @@
 # app
 
-A new Flutter project.
+A new Flutter project. This application exhibits text and offers interaction through a pair of buttons labeled "Like" and "Next". Moreover, it includes a favorites section enabling users to access the text they have liked.
 
 ## Getting Started
 
